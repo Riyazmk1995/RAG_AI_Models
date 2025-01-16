@@ -37,8 +37,7 @@ You'll need the following API keys and database setup:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/rag_tutorials/hybrid_search_rag
+   git clone https://github.com/Riyazmk1995/RAG_AI_Models/hybrid_search_rag
    ```
 
 2. **Install Dependencies**:
