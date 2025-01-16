@@ -13,7 +13,7 @@ This script demonstrates how to build a Retrieval-Augmented Generation (RAG) age
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Riyazmk1995/RAG_AI_Models/edit/main/agentic_rag.git
+git clone https://github.com/Riyazmk1995/RAG_AI_Models/agentic_rag.git
 ```
 
 2. Install the required dependencies:
