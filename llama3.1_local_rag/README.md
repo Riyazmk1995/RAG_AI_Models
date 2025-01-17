@@ -13,7 +13,6 @@ Streamlit app that allows you to chat with any webpage using local Llama-3.1 and
 
 ```bash
 git clone https://github.com/Riyazmk1995/RAG_AI_Models/llama3.1_local_rag
-cd awesome-llm-apps/rag_tutorials/llama3.1_local_rag
 ```
 2. Install the required dependencies:
 
