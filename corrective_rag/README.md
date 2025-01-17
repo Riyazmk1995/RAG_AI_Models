@@ -14,7 +14,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system that implements a co
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Riyazmk1995/RAG_AI_Models/corrective_rag
+   git clone https://github.com/Riyazmk1995/RAG_AI_Models/corrective_rag.git
    ```
 
 2. **Install Dependencies**:
