@@ -68,8 +68,7 @@ ollama pull llama3.2
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd rag_tutorials/deepseek_local_rag_agent
+git clone https://github.com/Riyazmk1995/RAG_AI_Models/deepseek_local_rag_agent.git
 ```
 
 2. Install dependencies:
